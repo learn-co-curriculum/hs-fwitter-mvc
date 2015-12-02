@@ -27,3 +27,5 @@ This project reflects the first iteration of the Fwitter project: a Sinatra back
   * This directory includes all the extra assets like CSS, JS, and images
 
 + In terminal, run `rackup` to start a localhost server.
+
+<a href='https://learn.co/lessons/hs-fwitter-1-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
